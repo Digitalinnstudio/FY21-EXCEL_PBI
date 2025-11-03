@@ -2,7 +2,7 @@ FY21 Overall Performance Summary Dashboard: Excel to Power BI Migration
 
 ## Project Overview
 
-This project involved the successful migration and automation of the **FY21 Overall Performance Summary** report—originally a manual, monthly report produced using **Excel Pivot Tables**—to a dynamic, scalable dashboard in **Microsoft Power BI Desktop**.
+This project involved the successful migration and automation of the FY21 Overall Performance Summary report originally a manual, monthly report produced using Excel Pivot Tables to a dynamic, scalable dashboard in Power BI.
 
 The goal was to replicate the exact "look and feel" and analytical structure of the original report, while leveraging Power BI's advanced capabilities for automated data refresh, greater interactivity, and enhanced performance, especially for the full dataset.
 
@@ -22,24 +22,24 @@ The client decision to automate this report in Power BI was driven by the need t
 The Power BI dashboard faithfully replicates four key analytical sections from the Excel summary:
 
 ### 1. FY21 Revenue vs Target Graph
-* **Visual Type:** A dual-axis or combination chart showing monthly **Revenue** alongside **Target** for comparison.
-* **Metrics:** Revenue broken down by different fee types (Registration Fee, Future Ops, Partner Fee, etc.).
+* **Visual Type:** A dual axis or combination chart showing monthly Revenue alongside Target for comparison.
+* **Metrics:** Revenue broken down by different fee types.
 
-### 2. Revenue Performance Graph MoM (Month-over-Month)
+### 2. Revenue Performance Graph MoM 
 * **Visual Type:** A detailed matrix/table showcasing actual performance metrics against the monthly Target.
-* **Key Calculations (DAX):** Requires precise calculation of **Total Revenue**, **Target**, and **% Vs Target** with color-coded conditional formatting for quick assessment of performance (Green for target hit, Red for miss).
+* **DAX:** Requires precise calculation of Total Revenue, Target, and % Vs Target with colour coded conditional formatting for quick assessment of performance.
 
 ### 3. Segment Summary
 * **Visual Type:** Tables providing a breakdown of performance metrics.
-* **Focus Areas:** Total Revenue, Target, and % Vs Target segmented by **Segment** (e.g., Primary PS, Public Sector, Corporate).
+* **Focus Areas:** Total Revenue, Target, and % Vs Target segmented by Segment 
 
 ### 4. Product Category Summary
 * **Visual Type:** Tables providing a breakdown of performance metrics.
-* **Focus Areas:** Total Revenue, Target, and % Vs Target segmented by **Product Category** (e.g., Online Products, Services, Support).
+* **Focus Areas:** Total Revenue, Target, and % Vs Target segmented by Product Category
 
 ### Additional Analysis
-* **Revenue vs Marketing Spend Relationship:** Replication of the scatter plot visual to analyze the correlation between revenue and marketing spend.
-* **Slicer Functionality:** Inclusion of slicers for key dimensions like **Segment**, **Product Category**, and **Additional Slicers** (Industry, Partner Name, Account Name) for dynamic filtering.
+* **Revenue vs Marketing Spend Relationship:** Replication of the scatter plot visual to analyse the correlation between revenue and marketing spend.
+* **Slicer Functionality:** Inclusion of slicers for key dimensions like Segment, Product Category, and Additional Slicers for dynamic filtering.
 
 ## Tech Stack
 
