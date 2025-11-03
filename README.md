@@ -46,6 +46,6 @@ The Power BI dashboard faithfully replicates four key analytical sections from t
 | Component | Tool / Language | Purpose |
 | :--- | :--- | :--- |
 | **Source Report** | Microsoft Excel (using Pivot Tables) | Baseline for the dashboard design, metrics, and conditional formatting rules. |
-| **Data Visualization** | Microsoft Power BI Desktop | Dashboard creation, report design, and interactivity implementation. |
-| **Data Preparation** | Power Query (M Language) | Data ingestion, cleaning, transformation, and connecting to the full dataset. |
-| **Calculations & Logic** | DAX (Data Analysis Expressions) | Implementing all required custom measures, month-over-month comparisons, and conditional formatting logic to exactly match the Excel outputs. |
+| **Data Visualization** | Power BI  | Dashboard creation, report design, and interactivity implementation. |
+| **Data Preparation** | Power Query  | Data ingestion, cleaning, transformation, and connecting to the full dataset. |
+| **Calculations & Logic** | DAX  | Implementing all required custom measures, month-over-month comparisons, and conditional formatting logic to exactly match the Excel outputs. |
