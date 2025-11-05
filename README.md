@@ -1,6 +1,6 @@
 FY21 Overall Performance Summary Dashboard: Excel to Power BI Migration
 
-https://app.powerbi.com/reportEmbed?reportId=3e93454f-30d5-41cd-9210-16066d67a1c5&autoAuth=true&ctid=edd67062-29c1-4a50-8fac-9813dfae8e4b
+https://app.powerbi.com/view?r=eyJrIjoiNjJmNmZlMWEtNjg1OS00MTQ0LWI4ZTgtYjYwODg2ODI0NWRmIiwidCI6ImVkZDY3MDYyLTI5YzEtNGE1MC04ZmFjLTk4MTNkZmFlOGU0YiJ9
 
 ## Project Overview
 
